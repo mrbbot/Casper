@@ -1,6 +1,6 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "name": "casper-mrbbot",
+    "description": "The default personal blogging theme for Ghost tweaked by MrBBot. Beautiful, minimal and responsive.",
     "demo": "https://demo.ghost.io",
     "version": "2.5.1",
     "engines": {
